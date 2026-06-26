@@ -26,21 +26,8 @@ Eclipse IDE	Development Environment
 Git & GitHub	Version Control
 
 📂 Project Structure
-SoftwareAccessManagementSystem/
-│
-├── src/
-│   ├── com.project.main
-│   ├── dao
-│   ├── model
-│   ├── service
-│   ├── util
-│   └── exception
-│
-├── database/
-│   └── software_access_management.sql
-│
-├── README.md
-└── .gitignore
+<img width="765" height="396" alt="image" src="https://github.com/user-attachments/assets/2a6fb13d-0c52-4e39-838c-11341c726315" />
+
 
 ⚙️ System Workflow
 Employee logs into the system.
@@ -66,7 +53,7 @@ Login_Logs
 
 🚀 Installation
 Clone the repository
-git clone https://github.com/yourusername/SoftwareAccessManagementSystem.git
+git clone https://github.com/subodh0212//SoftwareAccessManagementSystem.git
 Open the project
 
 Import the project into Eclipse IDE.
