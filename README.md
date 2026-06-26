@@ -88,3 +88,32 @@ Import the project.
 Configure the database.
 Run the Main.java file.
 Login as Employee or Admin.
+
+## 🤝 Contributing
+
+Contributions are welcome and appreciated! If you'd like to improve this project, please follow these steps:
+
+1. Fork this repository.
+2. Create a new branch for your feature or bug fix.
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. Make your changes and commit them with a clear commit message.
+   ```bash
+   git commit -m "Add your commit message"
+   ```
+4. Push your changes to your fork.
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+5. Open a Pull Request describing the changes you have made.
+
+### Contribution Guidelines
+
+- Follow the existing project structure and coding style.
+- Write clean, readable, and well-documented code.
+- Test your changes before submitting a Pull Request.
+- Keep commit messages meaningful and descriptive.
+- Ensure that your changes do not introduce new issues or break existing functionality.
+
+Thank you for contributing to the Software Access Management System!
