@@ -41,3 +41,50 @@ SoftwareAccessManagementSystem/
 │
 ├── README.md
 └── .gitignore
+
+⚙️ System Workflow
+Employee logs into the system.
+Employee views available software.
+Employee submits an access request.
+Administrator reviews pending requests.
+Administrator approves or rejects the request.
+Approved software becomes available to the employee.
+Employee's IN and OUT timings are recorded automatically.
+
+🗄️ Database
+
+The application uses MySQL as the backend database.
+
+Example tables:
+
+Employee
+Admin
+Software
+Access_Request
+Access_History
+Login_Logs
+
+🚀 Installation
+Clone the repository
+git clone https://github.com/yourusername/SoftwareAccessManagementSystem.git
+Open the project
+
+Import the project into Eclipse IDE.
+
+Configure Database
+Install MySQL
+Create a database
+Import the SQL file
+Update database credentials inside the project
+
+Example:
+
+URL=jdbc:mysql://localhost:3306/software_access_management
+USERNAME=root
+PASSWORD=your_password
+▶️ Run the Project
+Open Eclipse.
+Import the project.
+Configure the database.
+Run the Main.java file.
+Login as Employee or Admin.
