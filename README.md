@@ -53,7 +53,7 @@ Login_Logs
 
 🚀 Installation
 Clone the repository
-git clone https://github.com/subodh0212//SoftwareAccessManagementSystem.git
+git clone https://github.com/subodh0212/SoftwareAccessManagementSystem.git
 Open the project
 
 Import the project into Eclipse IDE.
